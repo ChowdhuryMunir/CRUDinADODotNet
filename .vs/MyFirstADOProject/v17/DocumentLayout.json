@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Chowdhury\\C_Sharp\\MyFirstADOProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1835453-12EE-49A9-B906-01691C16F0D8}|MyFirstADOProject.csproj|g:\\chowdhury\\c_sharp\\myfirstadoproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1835453-12EE-49A9-B906-01691C16F0D8}|MyFirstADOProject.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1835453-12EE-49A9-B906-01691C16F0D8}|MyFirstADOProject.csproj|G:\\Chowdhury\\C_Sharp\\MyFirstADOProject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D1835453-12EE-49A9-B906-01691C16F0D8}|MyFirstADOProject.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1835453-12EE-49A9-B906-01691C16F0D8}|MyFirstADOProject.csproj|G:\\Chowdhury\\C_Sharp\\MyFirstADOProject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1835453-12EE-49A9-B906-01691C16F0D8}|MyFirstADOProject.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1835453-12EE-49A9-B906-01691C16F0D8}|MyFirstADOProject.csproj|G:\\Chowdhury\\C_Sharp\\MyFirstADOProject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1835453-12EE-49A9-B906-01691C16F0D8}|MyFirstADOProject.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1835453-12EE-49A9-B906-01691C16F0D8}|MyFirstADOProject.csproj|G:\\Chowdhury\\C_Sharp\\MyFirstADOProject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1835453-12EE-49A9-B906-01691C16F0D8}|MyFirstADOProject.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1835453-12EE-49A9-B906-01691C16F0D8}|MyFirstADOProject.csproj|G:\\Chowdhury\\C_Sharp\\MyFirstADOProject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1835453-12EE-49A9-B906-01691C16F0D8}|MyFirstADOProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1835453-12EE-49A9-B906-01691C16F0D8}|MyFirstADOProject.csproj|G:\\Chowdhury\\C_Sharp\\MyFirstADOProject\\crystalreportstudent.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{D1835453-12EE-49A9-B906-01691C16F0D8}|MyFirstADOProject.csproj|solutionrelative:crystalreportstudent.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "G:\\Chowdhury\\C_Sharp\\MyFirstADOProject\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "G:\\Chowdhury\\C_Sharp\\MyFirstADOProject\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T04:26:25.621Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\Chowdhury\\C_Sharp\\MyFirstADOProject\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "G:\\Chowdhury\\C_Sharp\\MyFirstADOProject\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAuwGEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T03:41:33.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CrystalReportStudent.rpt",
+              "DocumentMoniker": "G:\\Chowdhury\\C_Sharp\\MyFirstADOProject\\CrystalReportStudent.rpt",
+              "RelativeDocumentMoniker": "CrystalReportStudent.rpt",
+              "ToolTip": "G:\\Chowdhury\\C_Sharp\\MyFirstADOProject\\CrystalReportStudent.rpt",
+              "RelativeToolTip": "CrystalReportStudent.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-02-13T04:34:43.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "G:\\Chowdhury\\C_Sharp\\MyFirstADOProject\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "G:\\Chowdhury\\C_Sharp\\MyFirstADOProject\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-13T03:06:31.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "G:\\Chowdhury\\C_Sharp\\MyFirstADOProject\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "G:\\Chowdhury\\C_Sharp\\MyFirstADOProject\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T08:08:09.396Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "G:\\Chowdhury\\C_Sharp\\MyFirstADOProject\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "G:\\Chowdhury\\C_Sharp\\MyFirstADOProject\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAwwCoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T04:58:42.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Chowdhury\\C_Sharp\\MyFirstADOProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\Chowdhury\\C_Sharp\\MyFirstADOProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T05:01:19.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
